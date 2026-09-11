@@ -35,3 +35,18 @@ An init system and system manager for Linux operating systems that bootstraps th
 
 ### TuneD
 A dynamic adaptive tuning daemon that monitors system usage and optimizes performance based on pre-defined workload profiles[cite: 1].
+
+### Argument
+The target input (such as a path, file name, or variable) provided to a command for it to operate on[cite: 2].
+
+### Command
+An executable binary, shell script, or built-in utility run inside the terminal[cite: 2].
+
+### Option (Flag)
+A parameter passed to a command that modifies its execution behavior, formatted with a single dash (`-`) for short options or double dashes (`--`) for long options[cite: 2].
+
+### Shell
+A command-line program that accepts keyboard input, translates commands, and passes them to the operating system kernel to execute[cite: 2].
+
+### Tab Autocompletion
+A shell feature that automatically completes typed commands, directory names, and file paths when the `Tab` key is pressed[cite: 2].

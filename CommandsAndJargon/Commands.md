@@ -4,3 +4,6 @@
 |---------|-------------|---------------|
 | `rpm` | Package management tool used to install, verify, and query software packages on RHEL, Fedora, and CentOS[cite: 1]. | 01 - Linux Distributions |
 | `leapp` | Utility for assessing and executing major version in-place upgrades on Red Hat Enterprise Linux[cite: 1]. | 01 - Linux Distributions |
+
+| `du` | Estimates and displays disk space usage for files and directories[cite: 2]. | 02 - Introduction to Shell |
+| `man` | Displays the system manual pages for a given command or utility[cite: 2]. | 02 - Introduction to Shell |
