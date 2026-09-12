@@ -56,3 +56,15 @@ A navigation capability within terminal text viewers (like `less`) that lets use
 
 ### Man Page
 A built-in system documentation file providing reference information, syntax breakdowns, and option lists for commands, system calls, and configuration files[cite: 3].
+
+### Red Hat Satellite
+An enterprise management platform that locally mirrors Red Hat software repositories, automates system provisioning, and controls patch lifecycle stages across enterprise networks[cite: 4].
+
+### Repository Mirroring
+The process of maintaining a local synchronization of remote software repositories, allowing internal systems to download updates without direct internet connectivity[cite: 4].
+
+### RHEL Lightspeed
+Red Hat's integrated AI technology designed to assist system administrators with real-time guidance, command generation, and troubleshooting directly within the operating system[cite: 4].
+
+### System Registration
+The administrative task of linking a RHEL installation to Red Hat Subscription Management or Red Hat Satellite to authorize access to system updates and cloud services[cite: 4].
