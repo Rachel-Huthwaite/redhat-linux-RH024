@@ -50,3 +50,9 @@ A command-line program that accepts keyboard input, translates commands, and pas
 
 ### Tab Autocompletion
 A shell feature that automatically completes typed commands, directory names, and file paths when the `Tab` key is pressed[cite: 2].
+
+### In-Page Search
+A navigation capability within terminal text viewers (like `less`) that lets users query text forward using `/` and cycle through results using `n`[cite: 3].
+
+### Man Page
+A built-in system documentation file providing reference information, syntax breakdowns, and option lists for commands, system calls, and configuration files[cite: 3].

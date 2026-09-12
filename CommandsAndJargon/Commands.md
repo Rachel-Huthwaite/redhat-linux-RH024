@@ -7,3 +7,5 @@
 
 | `du` | Estimates and displays disk space usage for files and directories[cite: 2]. | 02 - Introduction to Shell |
 | `man` | Displays the system manual pages for a given command or utility[cite: 2]. | 02 - Introduction to Shell |
+
+| `man` | Formats and displays built-in system reference manual pages for commands, utilities, and configuration files[cite: 3]. | 03 - Documentation |
