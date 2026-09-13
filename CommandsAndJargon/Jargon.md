@@ -68,3 +68,36 @@ Red Hat's integrated AI technology designed to assist system administrators with
 
 ### System Registration
 The administrative task of linking a RHEL installation to Red Hat Subscription Management or Red Hat Satellite to authorize access to system updates and cloud services[cite: 4].
+
+### Binary (`/usr/bin`)
+An executable file compiled into machine code that the system can run directly[cite: 5].
+
+### Configuration File (`/etc`)
+A plain-text file containing parameter settings that govern software behavior and system configuration[cite: 5].
+
+### Mounting (`/mnt`)
+The process of linking a storage device's filesystem to a specific directory path within the Linux root hierarchy[cite: 5].
+
+### Root Directory (`/`)
+The base level of the Linux filesystem hierarchy from which all paths originate[cite: 5].
+
+### Temporary Storage (`/tmp`)
+A system-cleared, public-writable folder used for non-essential temporary data[cite: 5].
+
+### Variable Data (`/var`)
+A persistent directory designated for files that continuously change size during normal operation, such as log files and databases[cite: 1, 5].
+
+### Hidden File
+A file or directory name that starts with a dot (`.`), making it invisible to standard listing commands unless the `-a` flag is used[cite: 6].
+
+### Interactive Flag (`-i`)
+A protection option passed to administrative commands that prompts the user for explicit confirmation before altering or deleting data[cite: 6].
+
+### Long Listing Format
+A detailed output mode for file listings that displays file permissions, ownership details, sizes, and timestamps[cite: 6].
+
+### Recursive Operation (`-r`)
+A command execution mode that traverses down through parent directories and all nested subdirectories[cite: 6].
+
+### Verbose Flag (`-v`)
+A parameter that forces a command to output detailed operational feedback about each action it completes[cite: 6].
