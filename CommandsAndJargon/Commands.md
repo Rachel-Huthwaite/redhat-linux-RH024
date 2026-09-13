@@ -19,3 +19,5 @@
 | `cp` | Copies files or directories to a specified destination[cite: 6]. | 06 - Basic File Management |
 | `mv` | Moves files between directories or renames files in place[cite: 6]. | 06 - Basic File Management |
 | `rm` | Removes files; `-r` enables recursive directory removal and `-i` prompts interactively before deletion[cite: 6]. | 06 - Basic File Management |
+| `vim` | Opens the terminal-based text editor for creating or modifying files[cite: 7]. | 07 - Editing Files with Vim |
+| `vimtutor` | Launches an interactive command-line tutorial for learning Vim keybindings[cite: 7]. | 07 - Editing Files with Vim |

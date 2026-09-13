@@ -101,3 +101,21 @@ A command execution mode that traverses down through parent directories and all 
 
 ### Verbose Flag (`-v`)
 A parameter that forces a command to output detailed operational feedback about each action it completes[cite: 6].
+
+### Command Mode (Ex Mode)
+A Vim mode entered by pressing `:` in Normal mode, allowing users to run file operations such as saving (`:w`) or quitting (`:q`)[cite: 7].
+
+### Insert Mode
+The Vim editing mode entered by pressing `i`, which allows inputting characters directly into the document[cite: 7].
+
+### Modal Editing
+A user interface design where key presses have different behaviors based on the active operational state (mode)[cite: 7].
+
+### Normal Mode
+The primary navigation state of Vim where keyboard inputs trigger movement, copy, paste, and deletion shortcuts[cite: 7].
+
+### Vim
+A lightweight, fast, terminal-based text editor included by default across Linux distributions[cite: 7].
+
+### vimtutor
+An interactive built-in terminal tutorial designed for practicing core Vim keyboard controls[cite: 7].
