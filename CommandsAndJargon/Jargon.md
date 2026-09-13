@@ -119,3 +119,21 @@ A lightweight, fast, terminal-based text editor included by default across Linux
 
 ### vimtutor
 An interactive built-in terminal tutorial designed for practicing core Vim keyboard controls[cite: 7].
+
+### GID (Group Identifier)
+A unique numerical identification number assigned to a system group in `/etc/group`[cite: 8].
+
+### Local User Account
+A user profile defined directly within a local machine's `/etc/passwd` and `/etc/shadow` files[cite: 8].
+
+### Orphan File
+A file whose stored owner UID does not match any currently active user account on the system[cite: 8].
+
+### Red Hat IdM (Identity Management)
+A centralized enterprise identity management platform provided by Red Hat to manage users, groups, host access, and authentication centrally[cite: 8].
+
+### UID (User Identifier)
+A unique numerical identification number assigned to each user account that the Linux kernel uses for access control[cite: 8].
+
+### wheel Group
+A default administrative group in RHEL whose members are granted administrative command access via `sudo`[cite: 8].

@@ -21,3 +21,17 @@
 | `rm` | Removes files; `-r` enables recursive directory removal and `-i` prompts interactively before deletion[cite: 6]. | 06 - Basic File Management |
 | `vim` | Opens the terminal-based text editor for creating or modifying files[cite: 7]. | 07 - Editing Files with Vim |
 | `vimtutor` | Launches an interactive command-line tutorial for learning Vim keybindings[cite: 7]. | 07 - Editing Files with Vim |
+| `cat /etc/passwd` | Outputs local user account configuration database records[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `sudo` | Executes commands with elevated root security privileges[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `sudo -i` | Opens an interactive root shell using the caller's password[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `useradd` | Creates a new system user account[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `passwd` | Sets passwords (`passwd <user>`), locks accounts (`-l`), or unlocks accounts (`-u`)[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `usermod` | Modifies user attributes like shell (`-s`) or appends secondary groups (`-aG`)[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `userdel` | Removes a user account; use `-r` to recursively remove the user's home directory[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `groupadd` | Creates a new system group[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `groupmod` | Modifies group attributes such as renaming (`-n`)[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `groupdel` | Deletes a system group[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `id` | Displays numerical UID, primary GID, and secondary group memberships for a user[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `groups` | Displays all group names that a user belongs to[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `find / -uid <UID> 2>/dev/null` | Searches filesystem for files owned by a specific UID while suppressing permission errors[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `su -` | Switches to the root superuser account requiring the root password[cite: 8]. | 08 - Organizing Local Users and Groups |

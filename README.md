@@ -26,8 +26,8 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 | 04 | Command Line Assistant | ✅ Complete| [04-command-line-assistant.md](./LessonBreakdowns/04-command-line-assistant.md) |
 | 05 | Linux Directories Explained | ✅ Complete| [05-linux-directories-explained.md](./LessonBreakdowns/05-linux-directories-explained.md) |
 | 06 | Basic File Management | ✅ Complete| [06-basic-file-management.md](./LessonBreakdowns/06-basic-file-management.md) |
-| 07 | Editing Files with Vim | ✅ Complete| [07-editing-filws-with-vim.md](./LessonBreakdowns/07-editing-filws-with-vim.md) |
-| 08 | Organizing Local Users and Groups | ✅ Complete| [08-organizing-local-users-and-groupds.md](./LessonBreakdowns/08-organizing-local-users-and-groupds.md) |
+| 07 | Editing Files with Vim | ✅ Complete| [07-editing-files-with-vim.md](./LessonBreakdowns/07-editing-filws-with-vim.md) |
+| 08 | Organizing Local Users and Groups | ✅ Complete| [08-organizing-local-users-and-groups.md](./LessonBreakdowns/08-organizing-local-users-and-groups.md) |
 | 09 | File Permissions | 🟡 In progress| [09-file-permissions.md](./LessonBreakdowns/09-file-permissions.md) |
 | 10 | Managing Software and Updates | 🔲 Not started| [10-managing-software-and-updates.md](./LessonBreakdowns/10-managing-software-and-updates.md) |
 | 11 | Managing Networking | 🔲 Not started| [11-managing-networking.md](./LessonBreakdowns/11-managing-networking.md) |
