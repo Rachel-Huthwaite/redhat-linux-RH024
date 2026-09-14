@@ -137,3 +137,18 @@ A unique numerical identification number assigned to each user account that the 
 
 ### wheel Group
 A default administrative group in RHEL whose members are granted administrative command access via `sudo`[cite: 8].
+
+### Absolute Permission Mode
+A method of defining permissions using 3-digit octal notation (0-7), where each digit represents the sum of Read (4), Write (2), and Execute (1)[cite: 9].
+
+### File Permissions
+An access control system in Linux that defines Read (`r`), Write (`w`), and Execute (`x`) rights for Owner, Group, and Others[cite: 9].
+
+### Octal Notation
+A base-8 numerical system used in Linux permission management where values 4, 2, and 1 correspond to read, write, and execute permissions[cite: 9].
+
+### Principle of Least Privilege
+A security strategy requiring that user accounts and services are granted only the essential permissions needed to perform their tasks[cite: 9].
+
+### tmux
+A terminal window manager and multiplexer that enables users to manage multiple terminal sessions and keep background jobs alive across SSH disconnects[cite: 9].

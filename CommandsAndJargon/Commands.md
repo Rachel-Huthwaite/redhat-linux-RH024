@@ -35,3 +35,7 @@
 | `groups` | Displays all group names that a user belongs to[cite: 8]. | 08 - Organizing Local Users and Groups |
 | `find / -uid <UID> 2>/dev/null` | Searches filesystem for files owned by a specific UID while suppressing permission errors[cite: 8]. | 08 - Organizing Local Users and Groups |
 | `su -` | Switches to the root superuser account requiring the root password[cite: 8]. | 08 - Organizing Local Users and Groups |
+| `ls -ld` | Displays permissions and ownership details for a directory itself rather than its contents[cite: 9]. | 09 - File Permissions |
+| `chmod` | Alters file and directory permission bits using numeric octal codes or symbolic expressions[cite: 9]. | 09 - File Permissions |
+| `chown` | Modifies file or directory user and group ownership[cite: 9]. | 09 - File Permissions |
+| `tmux` | Starts a terminal multiplexer to run detached, persistent command sessions[cite: 9]. | 09 - File Permissions |
