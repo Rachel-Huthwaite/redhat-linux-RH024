@@ -152,3 +152,36 @@ A security strategy requiring that user accounts and services are granted only t
 
 ### tmux
 A terminal window manager and multiplexer that enables users to manage multiple terminal sessions and keep background jobs alive across SSH disconnects[cite: 9].
+
+### CVE (Common Vulnerabilities and Exposures)
+A standardized, publicly tracked reference number assigned to security vulnerabilities[cite: 10].
+
+### CVSS (Common Vulnerability Scoring System)
+An open industry standard framework ranging from 0.0 to 10.0 used to assess the severity of security vulnerabilities[cite: 10].
+
+### DNF (Dandified YUM)
+The default package manager in Red Hat Enterprise Linux responsible for package installation, dependency management, and system updates[cite: 1, 10].
+
+### Errata
+Official Red Hat advisories detailing software bug fixes, security patches, or feature enhancements[cite: 10].
+
+### RHBA (Red Hat Bug Advisory)
+A type of Errata advisory released to address non-security software bugs and operational issues[cite: 10].
+
+### RHEA (Red Hat Enhancement Advisory)
+An Errata advisory introducing feature updates, enhancements, or new capabilities[cite: 10].
+
+### RHSA (Red Hat Security Advisory)
+An Errata advisory addressing security vulnerabilities, categorized by severity levels[cite: 10].
+
+### Network Interface
+A system representation of a physical or virtual network device (e.g., `eth0`, `enp7s0`)[cite: 11].
+
+### Network Profile
+A collection of stored configuration settings (IP address, subnet, gateway, DNS) managed by NetworkManager[cite: 11].
+
+### nmcli
+The primary command-line tool for controlling NetworkManager and modifying network connection profiles[cite: 11].
+
+### nmtui
+An interactive terminal interface tool providing a graphical-style menu for managing network profiles[cite: 11].

@@ -39,3 +39,20 @@
 | `chmod` | Alters file and directory permission bits using numeric octal codes or symbolic expressions[cite: 9]. | 09 - File Permissions |
 | `chown` | Modifies file or directory user and group ownership[cite: 9]. | 09 - File Permissions |
 | `tmux` | Starts a terminal multiplexer to run detached, persistent command sessions[cite: 9]. | 09 - File Permissions |
+| `subscription-manager identity` | Displays current registration status and identity credentials for Red Hat Subscription Management[cite: 10]. | 10 - Managing Software and Updates |
+| `subscription-manager register` | Registers a RHEL host system with Red Hat Subscription Management[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf search` | Searches package names and descriptions within enabled software repositories[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf install` | Installs specified software packages and required dependencies; `-y` bypasses interactive prompts[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf updateinfo list` | Displays available Errata advisories affecting installed system packages[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf updateinfo` | Displays detailed metadata breakdown for a specified Errata advisory or file[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf update` | Updates all installed packages or a specified package to the latest repository versions[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf update --sec-severity=` | Filters system updates to apply only patches matching specified security severity levels[cite: 10]. | 10 - Managing Software and Updates |
+| `dnf needs-restarting -r` | Checks whether updated system components require a full operating system reboot[cite: 10]. | 10 - Managing Software and Updates |
+| `reboot` | Restarts the system kernel and operating system session[cite: 10]. | 10 - Managing Software and Updates |
+| `nmcli con show` | Displays all NetworkManager connection profiles[cite: 11]. | 11 - Managing Networking |
+| `ip a s` | Displays IP addresses, status, and subnets for all network interfaces[cite: 11]. | 11 - Managing Networking |
+| `ip r s` | Displays kernel IPv4 routing table entries, including default gateways[cite: 11]. | 11 - Managing Networking |
+| `cat /etc/resolv.conf` | Displays active system DNS nameserver addresses[cite: 11]. | 11 - Managing Networking |
+| `nmcli connection add` | Configures and creates new network connection profiles[cite: 11]. | 11 - Managing Networking |
+| `nmcli con del` | Deletes a specified network connection profile[cite: 11]. | 11 - Managing Networking |
+| `nmtui` | Launches an interactive text user interface for network profile creation and modification[cite: 11]. | 11 - Managing Networking |
