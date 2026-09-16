@@ -56,3 +56,14 @@
 | `nmcli connection add` | Configures and creates new network connection profiles[cite: 11]. | 11 - Managing Networking |
 | `nmcli con del` | Deletes a specified network connection profile[cite: 11]. | 11 - Managing Networking |
 | `nmtui` | Launches an interactive text user interface for network profile creation and modification[cite: 11]. | 11 - Managing Networking |
+| `systemctl start` | Immediately activates a systemd service daemon in runtime memory[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl enable` | Registers a systemd service unit to launch automatically at boot[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl enable --now` | Simultaneously enables service autostart and launches the daemon immediately[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl status` | Displays execution state, operational logs, PID, and health status for a service unit[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl restart` | Stops and immediately restarts a running systemd service unit[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl stop` | Immediately terminates a running systemd service process[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `systemctl disable` | Unregisters a service unit to prevent automatic execution during system boot[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `firewall-cmd --add-service` | Opens firewall ports corresponding to specified service protocols[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `firewall-cmd --list-all` | Outputs current active zone rules, services, and port permissions[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `!!` | Bash shortcut re-executing the previous line command string[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `^old^new` | Quick bash substitution shortcut replacing target text `old` with `new` in previous command[cite: 12]. | 12 - Managing System Startup Services with systemd |

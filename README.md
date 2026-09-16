@@ -31,8 +31,8 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 | 09 | File Permissions | ✅ Complete| [09-file-permissions.md](./LessonBreakdowns/09-file-permissions.md) |
 | 10 | Managing Software and Updates | ✅ Complete| [10-managing-software-and-updates.md](./LessonBreakdowns/10-managing-software-and-updates.md) |
 | 11 | Managing Networking | ✅ Complete| [11-managing-networking.md](./LessonBreakdowns/11-managing-networking.md) |
-| 12 | Managing System Startup Services with Systemd | 🟡 In progress| [12-managing-system-startup-services-with-systemd.md](./LessonBreakdowns/12-managing-system-startup-services-with-systemd.md) |
-| 13 | Deploying an Application Runtime to Host a Simple Application | 🔲 Not started| [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) |
+| 12 | Managing System Startup Services with Systemd | ✅ Complete| [12-managing-system-startup-services-with-systemd.md](./LessonBreakdowns/12-managing-system-startup-services-with-systemd.md) |
+| 13 | Deploying an Application Runtime to Host a Simple Application | 🟡 In progress| [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) |
 | 14 | Using Image Mode with Bootc | 🔲 Not started| [14-using-image-mode-with-bootc.md](./LessonBreakdowns/14-using-image-mode-with-bootc.md) |
 | 15 | Image Builder | 🔲 Not started| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
 

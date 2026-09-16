@@ -185,3 +185,24 @@ The primary command-line tool for controlling NetworkManager and modifying netwo
 
 ### nmtui
 An interactive terminal interface tool providing a graphical-style menu for managing network profiles[cite: 11].
+
+### Daemon
+A background process that runs non-interactively to continuously perform system or network services[cite: 12].
+
+### Path Unit (`.path`)
+A systemd unit monitoring filesystem locations to trigger services when changes occur[cite: 12].
+
+### Service Unit (`.service`)
+A systemd unit responsible for starting, stopping, and managing system processes and daemons[cite: 12].
+
+### Socket Unit (`.socket`)
+A systemd unit facilitating network socket or IPC configuration, supporting on-demand service activation[cite: 12].
+
+### systemd
+The primary system initialization and background service manager utilized across Linux distributions[cite: 12].
+
+### Target Unit (`.target`)
+A systemd unit grouping related configuration units to establish operational system execution states[cite: 12].
+
+### Timer Unit (`.timer`)
+A systemd unit handling scheduled execution based on specific time criteria or triggers[cite: 12].
