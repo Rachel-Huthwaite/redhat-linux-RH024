@@ -67,3 +67,9 @@
 | `firewall-cmd --list-all` | Outputs current active zone rules, services, and port permissions[cite: 12]. | 12 - Managing System Startup Services with systemd |
 | `!!` | Bash shortcut re-executing the previous line command string[cite: 12]. | 12 - Managing System Startup Services with systemd |
 | `^old^new` | Quick bash substitution shortcut replacing target text `old` with `new` in previous command[cite: 12]. | 12 - Managing System Startup Services with systemd |
+| `sudo cp <file> /etc/systemd/system/` | Installs a custom systemd unit file into the local system management directory[cite: 14]. | 13 - Deploying an Application Runtime |
+| `sudo systemctl daemon-reload` | Forces systemd to reload its unit file configuration index from disk[cite: 14]. | 13 - Deploying an Application Runtime |
+| `sudo firewall-cmd --add-port=` | Opens a specific TCP or UDP network port in the firewall runtime configuration[cite: 14]. | 13 - Deploying an Application Runtime |
+| `bootc status` | Displays the current deployment status, active boot image, and staged updates on a bootc system[cite: 15]. | 14 - Using Image Mode with Bootc |
+| `bootc switch` | Stages a new bootable container image from a remote registry for the next system boot[cite: 15]. | 14 - Using Image Mode with Bootc |
+| `rpm -q` | Queries the host RPM database to check for package installation[cite: 15]. | 14 - Using Image Mode with Bootc |

@@ -206,3 +206,21 @@ A systemd unit grouping related configuration units to establish operational sys
 
 ### Timer Unit (`.timer`)
 A systemd unit handling scheduled execution based on specific time criteria or triggers[cite: 12].
+
+### `daemon-reload`
+A systemd command that forces the service manager to rescan filesystem unit directories and update its internal dependency tree[cite: 14].
+
+### Custom Unit File
+A user-defined unit file ending in `.service` stored in `/etc/systemd/system/` used to manage custom applications under systemd control[cite: 14].
+
+### Self-Healing Application
+An application deployment configured under systemd to automatically restart and recover upon experiencing runtime failures or crashes[cite: 14].
+
+### bootc
+A bootable container utility that manages OS host deployments using OCI container images[cite: 15].
+
+### Image Mode
+A operating system deployment pattern where the host kernel and user space are packaged and updated as a single immutable container image[cite: 15].
+
+### Transactional Update
+An update mechanism where operating system updates are applied as an atomic whole, ensuring safe rollbacks if failure occurs[cite: 15].
