@@ -224,3 +224,18 @@ A operating system deployment pattern where the host kernel and user space are p
 
 ### Transactional Update
 An update mechanism where operating system updates are applied as an atomic whole, ensuring safe rollbacks if failure occurs[cite: 15].
+
+### Golden Image
+A standardized, pre-configured operating system image template used to launch consistent virtual machines or cloud instances[cite: 16].
+
+### Image Blueprint
+A reusable configuration template defining the software packages, user credentials, storage partitioning, and system settings built into an OS image[cite: 16].
+
+### Insights Image Builder
+A SaaS-based OS image construction tool hosted on `console.redhat.com` that builds customized virtual machine and cloud images[cite: 16].
+
+### QCOW2 (QEMU Copy-On-Write 2)
+A virtual disk image format optimized for KVM/QEMU hypervisors supporting dynamic storage expansion and snapshots[cite: 16].
+
+### RHEL Image Builder
+An on-premise image creation service running directly on a RHEL host to build customized images locally within disconnected networks[cite: 16].

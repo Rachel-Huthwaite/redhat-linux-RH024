@@ -34,7 +34,7 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 | 12 | Managing System Startup Services with Systemd | ✅ Complete| [12-managing-system-startup-services-with-systemd.md](./LessonBreakdowns/12-managing-system-startup-services-with-systemd.md) |
 | 13 | Deploying an Application Runtime to Host a Simple Application | ✅ Complete| [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) |
 | 14 | Using Image Mode with Bootc | ✅ Complete| [14-using-image-mode-with-bootc.md](./LessonBreakdowns/14-using-image-mode-with-bootc.md) |
-| 15 | Image Builder | 🟡 In progress| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
+| 15 | Image Builder | ✅ Complete| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
 
 
 *(More rows added as I progress through the course.)*

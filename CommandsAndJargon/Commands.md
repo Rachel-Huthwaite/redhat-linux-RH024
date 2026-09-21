@@ -73,3 +73,4 @@
 | `bootc status` | Displays the current deployment status, active boot image, and staged updates on a bootc system[cite: 15]. | 14 - Using Image Mode with Bootc |
 | `bootc switch` | Stages a new bootable container image from a remote registry for the next system boot[cite: 15]. | 14 - Using Image Mode with Bootc |
 | `rpm -q` | Queries the host RPM database to check for package installation[cite: 15]. | 14 - Using Image Mode with Bootc |
+| *(Web Console)* `console.redhat.com` | Red Hat Hybrid Cloud Console interface used to access Insights Image Builder and construct OS image blueprints[cite: 16]. | 15 - Image Builder |
