@@ -257,3 +257,18 @@ Extension packages (prefixed with `cockpit-*`) that add modular dashboards to Co
 
 ### Session Recording
 A security compliance feature in Cockpit (via `tlog`) that captures and plays back user terminal activity[cite: 18].
+
+### Red Hat Developer Subscription for Individuals
+A free Red Hat subscription allowing individual users to deploy up to 16 RHEL nodes for learning and development[cite: 10].
+
+### Red Hat Developer Subscription for Teams
+An enterprise subscription program allowing organizations to deploy non-production RHEL nodes for dev and staging environments[cite: 10].
+
+### Red Hat Learning Subscription (RHLS)
+An all-inclusive digital learning platform providing access to Red Hat training courses, hands-on labs, and certification exams[cite: 10].
+
+### RH124 / RH134
+Red Hat System Administration I & II courses designed to build intermediate Linux skills from scratch[cite: 10].
+
+### RH199
+The accelerated RHCSA Rapid Track course designed for administrators with existing Linux experience[cite: 10].

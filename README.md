@@ -37,7 +37,7 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 | 15 | Image Builder | ✅ Complete| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
 | 16 | Insights Vulnerability Management | ✅ Complete| [16-insights-vulnerability-management.md](./LessonBreakdowns/16-insights-vulnerability-management.md) |
 | 17 | Managing Systems with RHEL web console | ✅ Complete| [17-managing-systems-with-rhel-web-console.md](./LessonBreakdowns/17-managing-systems-with-rhel-web-console.md) |
-| 18 | Next Steps | 🟡 In progress| [18-next-steps.md](./LessonBreakdowns/18-next-steps.md) |
+| 18 | Next Steps | ✅ Complete| [18-next-steps.md](./LessonBreakdowns/18-next-steps.md) |
 
 *(More rows added as I progress through the course.)*
 
