@@ -74,3 +74,7 @@
 | `bootc switch` | Stages a new bootable container image from a remote registry for the next system boot[cite: 15]. | 14 - Using Image Mode with Bootc |
 | `rpm -q` | Queries the host RPM database to check for package installation[cite: 15]. | 14 - Using Image Mode with Bootc |
 | *(Web Console)* `console.redhat.com` | Red Hat Hybrid Cloud Console interface used to access Insights Image Builder and construct OS image blueprints[cite: 16]. | 15 - Image Builder |
+| `sudo insights-client --register` | Registers the system with Red Hat Insights and begins secure metadata collection[cite: 17]. | 16 - Insights Vulnerability Management |
+| `sudo systemctl enable --now cockpit.socket` | Enables and launches the Cockpit Web Console socket listener on port 9090[cite: 18]. | 17 - Managing Systems with RHEL web console |
+| `dnf search cockpit-*` | Searches package repositories for Cockpit modular web console extensions[cite: 18]. | 17 - Managing Systems with RHEL web console |
+| `sudo dnf install -y cockpit-*` | Installs all available Cockpit extension plugins non-interactively[cite: 18]. | 17 - Managing Systems with RHEL web console |

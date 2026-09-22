@@ -35,7 +35,9 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 | 13 | Deploying an Application Runtime to Host a Simple Application | ✅ Complete| [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) |
 | 14 | Using Image Mode with Bootc | ✅ Complete| [14-using-image-mode-with-bootc.md](./LessonBreakdowns/14-using-image-mode-with-bootc.md) |
 | 15 | Image Builder | ✅ Complete| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
-
+| 16 | Insights Vulnerability Management | ✅ Complete| [16-insights-vulnerability-management.md](./LessonBreakdowns/16-insights-vulnerability-management.md) |
+| 17 | Managing Systems with RHEL web console | ✅ Complete| [17-managing-systems-with-rhel-web-console.md](./LessonBreakdowns/17-managing-systems-with-rhel-web-console.md) |
+| 18 | Next Steps | 🟡 In progress| [18-next-steps.md](./LessonBreakdowns/18-next-steps.md) |
 
 *(More rows added as I progress through the course.)*
 

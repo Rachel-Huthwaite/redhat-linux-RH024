@@ -239,3 +239,21 @@ A virtual disk image format optimized for KVM/QEMU hypervisors supporting dynami
 
 ### RHEL Image Builder
 An on-premise image creation service running directly on a RHEL host to build customized images locally within disconnected networks[cite: 16].
+
+### insights-client
+The local agent utility in RHEL responsible for gathering anonymized configuration telemetry and sending it to Red Hat Insights[cite: 17].
+
+### Red Hat Insights
+A proactive predictive analytics service included in RHEL subscriptions that continuously checks systems for security risks, misconfigurations, and compliance issues[cite: 17].
+
+### Remediation Playbook
+An automatically generated Ansible script produced by Red Hat Insights to patch vulnerabilities across managed hosts[cite: 17].
+
+### Cockpit
+The web-based graphical management console integrated into RHEL for system monitoring and administration[cite: 18].
+
+### Cockpit Plugins
+Extension packages (prefixed with `cockpit-*`) that add modular dashboards to Cockpit, such as container or VM management[cite: 18].
+
+### Session Recording
+A security compliance feature in Cockpit (via `tlog`) that captures and plays back user terminal activity[cite: 18].
