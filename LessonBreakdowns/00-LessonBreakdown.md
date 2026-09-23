@@ -15,7 +15,7 @@ compare over time:
 5. **Main Notes** — anything else worth capturing
 6. **My Key Learning** — the one or two things I'll actually carry forward
 
-Files are named by lesson number and title, e.g. `01-linux_distributions.md`.
+Files are named by lesson number and title, e.g. `01-linux-distributions.md`.
 
 *(This structure is a first draft — expect it to get refined once the first
 real lesson is written up.)*

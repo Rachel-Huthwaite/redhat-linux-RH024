@@ -1,6 +1,12 @@
 # Red Hat Linux Administration — Learning Journey (RH024)
 My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing Linux command/jargon glossary, and real Fedora troubleshooting stories.
 
+**Quick jump:** [Why I'm doing this](./PersonalMotivation) ·
+[Lesson Breakdowns](./LessonBreakdowns) ·
+[⚡ Commands Lookup](./CommandsAndJargon/Commands.md#quick-lookup) ·
+[Jargon Glossary](./CommandsAndJargon/Jargon.md) ·
+[Fun Learning Quizzes](./FunLearning)
+
 ## How to read this repo
 
 1. Start with [`PersonalMotivation/`](./PersonalMotivation) — why I'm doing
@@ -18,26 +24,26 @@ My public learning log for Red Hat's RH024 course: lesson breakdowns, a growing 
 
 > Updated as I move through the RH024 videos.
 
-| # | Lesson | Status | Breakdown |
-|---|--------|--------|-----------|
-| 01 | Linux Distributions | ✅ Complete| [01-linux-distributions.md](./LessonBreakdowns/01-linux_distributions.md) |
-| 02 | Introduction to Shell | ✅ Complete| [02-introduction-to-shell.md](./LessonBreakdowns/02-introduction-to-shell.md) |
-| 03 | Documentation | ✅ Complete| [03-documentation.md](./LessonBreakdowns/03-documentation.md) |
-| 04 | Command Line Assistant | ✅ Complete| [04-command-line-assistant.md](./LessonBreakdowns/04-command-line-assistant.md) |
-| 05 | Linux Directories Explained | ✅ Complete| [05-linux-directories-explained.md](./LessonBreakdowns/05-linux-directories-explained.md) |
-| 06 | Basic File Management | ✅ Complete| [06-basic-file-management.md](./LessonBreakdowns/06-basic-file-management.md) |
-| 07 | Editing Files with Vim | ✅ Complete| [07-editing-files-with-vim.md](./LessonBreakdowns/07-editing-filws-with-vim.md) |
-| 08 | Organizing Local Users and Groups | ✅ Complete| [08-organizing-local-users-and-groups.md](./LessonBreakdowns/08-organizing-local-users-and-groups.md) |
-| 09 | File Permissions | ✅ Complete| [09-file-permissions.md](./LessonBreakdowns/09-file-permissions.md) |
-| 10 | Managing Software and Updates | ✅ Complete| [10-managing-software-and-updates.md](./LessonBreakdowns/10-managing-software-and-updates.md) |
-| 11 | Managing Networking | ✅ Complete| [11-managing-networking.md](./LessonBreakdowns/11-managing-networking.md) |
-| 12 | Managing System Startup Services with Systemd | ✅ Complete| [12-managing-system-startup-services-with-systemd.md](./LessonBreakdowns/12-managing-system-startup-services-with-systemd.md) |
-| 13 | Deploying an Application Runtime to Host a Simple Application | ✅ Complete| [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) |
-| 14 | Using Image Mode with Bootc | ✅ Complete| [14-using-image-mode-with-bootc.md](./LessonBreakdowns/14-using-image-mode-with-bootc.md) |
-| 15 | Image Builder | ✅ Complete| [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) |
-| 16 | Insights Vulnerability Management | ✅ Complete| [16-insights-vulnerability-management.md](./LessonBreakdowns/16-insights-vulnerability-management.md) |
-| 17 | Managing Systems with RHEL web console | ✅ Complete| [17-managing-systems-with-rhel-web-console.md](./LessonBreakdowns/17-managing-systems-with-rhel-web-console.md) |
-| 18 | Next Steps | ✅ Complete| [18-next-steps.md](./LessonBreakdowns/18-next-steps.md) |
+| # | Lesson | Status | Breakdown | Commands |
+|---|--------|--------|-----------|----------|
+| 01 | Linux Distributions | ✅ Complete | [01-linux-distributions.md](./LessonBreakdowns/01-linux-distributions.md) | [Jump ↗](./CommandsAndJargon/Commands.md#01-linux-distributions) |
+| 02 | Introduction to Shell | ✅ Complete | [02-introduction-to-shell.md](./LessonBreakdowns/02-introduction-to-shell.md) | [Jump ↗](./CommandsAndJargon/Commands.md#02-introduction-to-shell) |
+| 03 | Documentation | ✅ Complete | [03-documentation.md](./LessonBreakdowns/03-documentation.md) | [Jump ↗](./CommandsAndJargon/Commands.md#03-documentation) |
+| 04 | Command Line Assistant | ✅ Complete | [04-command-line-assistant.md](./LessonBreakdowns/04-command-line-assistant.md) | [Jump ↗](./CommandsAndJargon/Commands.md#04-command-line-assistant) |
+| 05 | Linux Directories Explained | ✅ Complete | [05-linux-directories-explained.md](./LessonBreakdowns/05-linux-directories-explained.md) | [Jump ↗](./CommandsAndJargon/Commands.md#05-linux-directories-explained) |
+| 06 | Basic File Management | ✅ Complete | [06-basic-file-management.md](./LessonBreakdowns/06-basic-file-management.md) | [Jump ↗](./CommandsAndJargon/Commands.md#06-basic-file-management) |
+| 07 | Editing Files with Vim | ✅ Complete | [07-editing-files-with-vim.md](./LessonBreakdowns/07-editing-files-with-vim.md) | [Jump ↗](./CommandsAndJargon/Commands.md#07-editing-files-with-vim) |
+| 08 | Organizing Local Users and Groups | ✅ Complete | [08-organizing-local-users-and-groups.md](./LessonBreakdowns/08-organizing-local-users-and-groups.md) | [Jump ↗](./CommandsAndJargon/Commands.md#08-organizing-local-users-and-groups) |
+| 09 | File Permissions | ✅ Complete | [09-file-permissions.md](./LessonBreakdowns/09-file-permissions.md) | [Jump ↗](./CommandsAndJargon/Commands.md#09-file-permissions) |
+| 10 | Managing Software and Updates | ✅ Complete | [10-managing-software-and-updates.md](./LessonBreakdowns/10-managing-software-and-updates.md) | [Jump ↗](./CommandsAndJargon/Commands.md#10-managing-software-and-updates) |
+| 11 | Managing Networking | ✅ Complete | [11-managing-networking.md](./LessonBreakdowns/11-managing-networking.md) | [Jump ↗](./CommandsAndJargon/Commands.md#11-managing-networking) |
+| 12 | Managing System Startup Services with Systemd | ✅ Complete | [12-managing-system-startup-services-with-systemd.md](./LessonBreakdowns/12-managing-system-startup-services-with-systemd.md) | [Jump ↗](./CommandsAndJargon/Commands.md#12-managing-system-startup-services-with-systemd) |
+| 13 | Deploying an Application Runtime to Host a Simple Application | ✅ Complete | [13-deploying-an-application-runtime-to-host-a-simple-application.md](./LessonBreakdowns/13-deploying-an-application-runtime-to-host-a-simple-application.md) | [Jump ↗](./CommandsAndJargon/Commands.md#13-deploying-an-application-runtime-to-host-a-simple-application) |
+| 14 | Using Image Mode with Bootc | ✅ Complete | [14-using-image-mode-with-bootc.md](./LessonBreakdowns/14-using-image-mode-with-bootc.md) | [Jump ↗](./CommandsAndJargon/Commands.md#14-using-image-mode-with-bootc) |
+| 15 | Image Builder | ✅ Complete | [15-image-builder.md](./LessonBreakdowns/15-image-builder.md) | [Jump ↗](./CommandsAndJargon/Commands.md#15-image-builder) |
+| 16 | Insights Vulnerability Management | ✅ Complete | [16-insights-vulnerability-management.md](./LessonBreakdowns/16-insights-vulnerability-management.md) | [Jump ↗](./CommandsAndJargon/Commands.md#16-insights-vulnerability-management) |
+| 17 | Managing Systems with RHEL web console | ✅ Complete | [17-managing-systems-with-rhel-web-console.md](./LessonBreakdowns/17-managing-systems-with-rhel-web-console.md) | [Jump ↗](./CommandsAndJargon/Commands.md#17-managing-systems-with-rhel-web-console) |
+| 18 | Next Steps | ✅ Complete | [18-next-steps.md](./LessonBreakdowns/18-next-steps.md) | [Jump ↗](./CommandsAndJargon/Commands.md#18-next-steps) |
 
 *(More rows added as I progress through the course.)*
 
